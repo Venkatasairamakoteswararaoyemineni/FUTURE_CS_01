@@ -26,6 +26,8 @@ o	http://testaspnet.vulnweb.com
 
 o	https://testaspnet.vulnweb.com
 
+________________________________________
+
 •	Methodology:
 
 o	Reconnaissance & Information Gathering
@@ -52,6 +54,8 @@ o	Missing Anti Clickjacking Header
 
 o	HTTP only site (no HTTPS enforcement)
 
+________________________________________
+
 •	Low (5)
 
 o	Cookie without SameSite attribute
@@ -63,6 +67,8 @@ o	Server version disclosure
 o	X AspNet Version header leak
 
 o	Missing X Content Type Options header
+
+________________________________________
 
 •	Informational (5)
 

@@ -1,23 +1,33 @@
 # FUTURE_CS_01
 ________________________________________
 README – Vulnerability Assessment of a Live Web Application
+
 📌 Project Overview
 This project documents a comprehensive vulnerability assessment performed on the live test site testaspnet.vulnweb.com using the industry standard tool OWASP ZAP (v2.17.0 by Checkmarx).
-The assessment followed recognized methodologies including the OWASP Testing Guide v4 and NIST SP 800 115, ensuring a structured, reliable, and repeatable evaluation process.
+The assessment followed recognized methodologies including the OWASP Testing Guide v4 and NIST SP 800 115, ensuring a structured, reliable, and repeatable 
+evaluation process.
+
 The primary objective was to:
 •	Identify potential security weaknesses.
 •	Analyze their severity using CVSS v3.1 scoring.
 •	Provide practical remediation strategies to strengthen the application’s security posture.
 ________________________________________
+
 🔍 Scope
 •	Target URLs:
 o	http://testaspnet.vulnweb.com
 o	https://testaspnet.vulnweb.com
+
 •	Methodology:
+
 o	Reconnaissance & Information Gathering
+
 o	Automated Scanning with OWASP ZAP
+
 o	Manual Verification of Findings
+
 o	CVSS v3.1 Risk Scoring
+
 o	Reporting & Remediation Planning
 ________________________________________
 📊 Findings Summary
